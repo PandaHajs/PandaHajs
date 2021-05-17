@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hello There
+As you have probably guessed by now my name is Kacper Skowroński, I'm just some random IT Student from Poland who has no idea what he's doing.
 
 <!--
 **PandaHajs/PandaHajs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
