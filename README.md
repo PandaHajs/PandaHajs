@@ -1,5 +1,7 @@
 ### Hello There
 As you have probably guessed by now my name is Kacper Skowroński, I'm just some random IT Student from Poland who has no idea what he's doing.
+<figure><embed src="https://wakatime.com/share/@018c0c16-eead-4e81-9120-20007436f868/e791dacd-196e-413a-adaa-304a9da02e71.svg"></embed></figure>
+
 
 <!--
 **PandaHajs/PandaHajs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
